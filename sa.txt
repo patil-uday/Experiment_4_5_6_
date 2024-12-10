@@ -16,3 +16,20 @@ scanf("%d%d",&a,&b);
 c=a+b;
 printf("RESULT =%d",c);
 }
+//SWAPPING OF 2 NUMBERS USING 3RD VARIABLE
+#include<stdio.h>
+int main()
+{
+int a=10,b=20,c;
+printf("befor swapping A%d b=%d",a,b);
+}
+//same program using scanf
+#include<stdio.h>
+int main()
+{
+int a,b,c;
+printf("enter the value of a and b\n");
+scanf("%d%d",&a,&b);
+c=a+b;
+printf("RESULT=%d",c);
+}

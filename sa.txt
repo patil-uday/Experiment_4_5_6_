@@ -16,3 +16,14 @@ scanf("%d%d",&a,&b);
 c=a+b;
 printf("RESULT =%d",c);
 }
+//SWAPPING OF 2 NUMBERS WITOUT USING THIRD VARIABLE
+#include<studio.h>
+int main()
+{
+int a=10,b=20;
+printf("befor swapping a=%d b=%d,a,b);
+a=a+b;
+b=a-b;
+a=a-b;
+printf("after swappinh a=%d b=%d",a,b);
+}
